@@ -1,0 +1,59 @@
+[
+    {
+        "id": 0,
+        "productName": "Avocado",
+        "image": "🥑",
+        "from": "spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "quantity": "4 🥑",
+        "price": "6.50",
+        "organic": true,
+        "description": "A true Avocado yields to gentle pressure when held in the palm of the hand and squeezed. The fruit is not sweet, but distinctly and subtly flavoured, with smooth texture. The Avocado is popular in vegetaarian cuisine as a sustitute for meats in sandwiches and salads because of its high fat content. Generally, avocado is served raw, though some cultivators, including the common 'Mass' can be cooked, for a short time without becoming bitter. It is used as the base for the Mexican ip known as guacamole, as well as a spread on corn tortillas or toast, served with spices."
+
+    },
+
+    {
+        "id": 1,
+        "productName": "Goat and Sheep Cheese",
+        "image": "🧀",
+        "from": "Portugal",
+        "nutrients": "Vitamin A, Calcium",
+        "quantity": "250g",
+        "price": "5.00",
+        "organic": false,
+        "description": "Creamy and distinct in flavour, goat cheese is dairy product enjoyed around the world. Goat cheese comes in a wide variety of flavours and textures, from soft and spreadable fresh chesses to salty, crumbly aged cheese. Although it's made using the same coagulation and separation process as cheese made from cow's milk, goat cheese differs in nutrient content."
+    },
+    {
+        "id": 2,
+        "productName": "Apollo Brocolli",
+        "image": "🥦",
+        "from": "Portugal",
+        "nutrients": "Vitamin C, Vitamin K",
+        "quantity": "3",
+        "price": "5.50",
+        "organic": true,
+        "description": "Broccoli is known to be a hearty and treaty vegetable which is rich in dozens of nutrients. It is said to pack the most nutritional punch of any vegetable. When we think about green vegetables to include in our diet, broccoli is one of the foremost veggies to come to our mind. Broccoli is a coniferous vegetable and part of the cabbage family, which include vegetables such as Broccoli sprouts and kale. Although the tastes are different, broccoli and other vegetables are from the same family."
+    },
+    {
+        "id": 3,
+        "productName": "Baby Carrots",
+        "image": "🥕",
+        "from": "France",
+        "nutrients": "Vitamin A, Vitamin K",
+        "quantity": "20",
+        "price": "3.00",
+        "organic": true,
+        "description": "The carrot is very good."
+    },
+    {
+        "id": 4,
+        "productName": "Sweet Corncobs",
+        "image": "🌽",
+        "from": "Germany",
+        "nutrients": "Vitamin C, Magnesium",
+        "quantity": "2",
+        "price": "2.00",
+        "organic": false,
+        "description": "Corn is good for your body"
+    }
+]
